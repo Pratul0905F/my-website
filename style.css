@@ -1,0 +1,18 @@
+.Row0{color: black;}
+.Row0:hover{color: bisque;
+transition: 3s;}
+.Row1 img:hover{width: 175px;height: 325px;
+transition:2s ;}
+.Row2 img:hover{width: 175px;height: 325px;
+transition:2s ;}
+.Row3 img:hover{width: 175px;height: 325px;
+transition:2s ;}
+.Row1{display: flex;
+margin-bottom: 20px;
+justify-content: space-evenly}
+.Row2{display: flex;
+margin-bottom : 20px;
+justify-content: space-evenly}
+.Row3{display: flex;
+justify-content: space-evenly}
+html,body{background-image:radial-gradient(rgb(9, 12, 148),rgb(146, 146, 134),rgb(9, 3, 65));}    
